@@ -1,6 +1,6 @@
 # ble_flutter
 
-BLE application using FLutter
+BLE application using Flutter
 
 ## Getting Started
 
